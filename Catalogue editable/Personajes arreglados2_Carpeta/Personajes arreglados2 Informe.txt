@@ -1,0 +1,44 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Personajes arreglados2.eps
+Modo de color: Color CMYK
+Perfil de color: Coated FOGRA39 (ISO 12647-2:2004)
+Unidades de regla: puntos
+Dimensiones de la mesa de trabajo: 285,1483 pt x 243,7623 pt
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\mayca\Desktop\FIRECHIP\Logo\CHIP.eps
+Tipo: EPS
+
+C:\Users\mayca\Desktop\FIRECHIP\Logo\CHIP.eps
+Tipo: EPS
