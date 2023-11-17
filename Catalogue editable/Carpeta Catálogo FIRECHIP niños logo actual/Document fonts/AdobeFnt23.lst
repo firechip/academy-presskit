@@ -1,0 +1,98 @@
+%!Adobe-FontList 1.23
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FuturaBT-Heavy
+FamilyName:Futura Hv BT
+StyleName:Heavy
+FullName:Futura Heavy BT
+MenuName:Futura Hv BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\mayca\Desktop\FIRECHIP\academy-presskit\Catalogue editable\Carpeta Catálogo FIRECHIP niños logo actual\Document fonts\Futura Heavy font.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38980
+FileModTime:1469065252
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Futura Heavy BT
+NameArray:0,Win,1,Futura Hv BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\mayca\Desktop\FIRECHIP\academy-presskit\Catalogue editable\Carpeta Catálogo FIRECHIP niños logo actual\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1658879388
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\mayca\Desktop\FIRECHIP\academy-presskit\Catalogue editable\Carpeta Catálogo FIRECHIP niños logo actual\Document fonts\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1036584
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\mayca\Desktop\FIRECHIP\academy-presskit\Catalogue editable\Carpeta Catálogo FIRECHIP niños logo actual\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:980756
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
